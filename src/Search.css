@@ -1,0 +1,17 @@
+.Search input {
+  padding: 1rem;
+  border-color: white;
+  box-shadow: none;
+  outline: none;
+  border: none;
+  border-radius: 15px;
+}
+
+.Search input::placeholder {
+  font-size: 1rem;
+  text-align: center;
+}
+.Search input:focus,
+.Search input:active {
+  box-shadow: 0 0 3px blue;
+}
