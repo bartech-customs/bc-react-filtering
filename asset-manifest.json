@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bc-react-filtering/static/css/main.283a93b8.chunk.css",
+    "main.js": "/bc-react-filtering/static/js/main.5b5c9ffa.chunk.js",
+    "main.js.map": "/bc-react-filtering/static/js/main.5b5c9ffa.chunk.js.map",
+    "runtime-main.js": "/bc-react-filtering/static/js/runtime-main.4c70149c.js",
+    "runtime-main.js.map": "/bc-react-filtering/static/js/runtime-main.4c70149c.js.map",
+    "static/js/2.289e4db6.chunk.js": "/bc-react-filtering/static/js/2.289e4db6.chunk.js",
+    "static/js/2.289e4db6.chunk.js.map": "/bc-react-filtering/static/js/2.289e4db6.chunk.js.map",
+    "static/js/3.3fb58fa5.chunk.js": "/bc-react-filtering/static/js/3.3fb58fa5.chunk.js",
+    "static/js/3.3fb58fa5.chunk.js.map": "/bc-react-filtering/static/js/3.3fb58fa5.chunk.js.map",
+    "index.html": "/bc-react-filtering/index.html",
+    "static/css/main.283a93b8.chunk.css.map": "/bc-react-filtering/static/css/main.283a93b8.chunk.css.map",
+    "static/js/2.289e4db6.chunk.js.LICENSE.txt": "/bc-react-filtering/static/js/2.289e4db6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c70149c.js",
+    "static/js/2.289e4db6.chunk.js",
+    "static/css/main.283a93b8.chunk.css",
+    "static/js/main.5b5c9ffa.chunk.js"
+  ]
+}
